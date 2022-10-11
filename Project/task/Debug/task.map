@@ -1,0 +1,1128 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+                              main.o (_ZN14BinarySemaphor11wait_aquireEv)
+D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+                              main.o (_ZN12BoundedQueue4readEv)
+D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                              main.o (_ZN11DigiPortRawC1Ehhh)
+D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                              main.o (_ZN3LCD7set_posEhh)
+D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                              main.o (_Z11task_insertPFvvE8Priority)
+D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                              main.o (_ZN7Timer16C1EhPFvvES1_S1_S1_)
+D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+                              D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o) (_Z22port_handle_to_addressh)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+                              D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o) (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                              D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+                              main.o (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o) (__tablejump2__)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .data          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .bss           0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .text._ZN14BinarySemaphor6aquireEv
+                0x00000000       0x34 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .text._ZN14BinarySemaphor7is_mineEv
+                0x00000000       0x20 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .text._ZN14BinarySemaphor4waitEv
+                0x00000000       0x1c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .text          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .data          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .bss           0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .text._ZN12BoundedQueue5clearEv
+                0x00000000       0x10 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .text._ZN12BoundedQueue13get_free_sizeEv
+                0x00000000       0x10 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .text._ZN12BoundedQueue9wait_readEv
+                0x00000000       0x3c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .text          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .data          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .bss           0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .text._ZN11DigiPortRaw14read_busy_waitEh
+                0x00000000       0x36 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .text._ZN11DigiPortRaw13read_blockingEh
+                0x00000000       0x68 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .text          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .data          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .bss           0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN3LCD15write_SRAM_textEPKch
+                0x00000000       0x46 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN3LCD16write_FLASH_textEPKch
+                0x00000000       0x4a D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN3LCD5clearEv
+                0x00000000       0x2c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN3LCD4homeEv
+                0x00000000       0x2c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN3LCD4itoaEPcihc
+                0x00000000       0xea D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN3LCD12write_numberEihc
+                0x00000000       0x1e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .rodata.str1.1
+                0x00000000       0x10 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN3LCD8describeEv
+                0x00000000       0x9e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN4LCDSC2Eh10LCD_Type_th
+                0x00000000       0x4a D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN4LCDS5clearEv
+                0x00000000       0x32 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN4LCDS7refreshEv
+                0x00000000       0xb0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN4LCDS14buffer_roll_upEv
+                0x00000000       0xc2 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN4LCDS10write_charEc
+                0x00000000       0xb0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN4LCDS15write_SRAM_textEPKch
+                0x00000000       0x46 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN4LCDS16write_FLASH_textEPKch
+                0x00000000       0x4a D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN4LCDS9scroll_upEh
+                0x00000000       0x20 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text._ZN4LCDS11scroll_downEh
+                0x00000000       0x4e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .bss._ZZN3LCD4itoaEPcihcE3num
+                0x00000000        0x7 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .text          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .data          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .bss           0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .text._Z10elapsed_msh
+                0x00000000       0x3c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .text._Z11stop_kernelh
+                0x00000000       0x1e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .text._Z13task_set_prio8Priority
+                0x00000000       0x1c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .group         0x00000000        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .text          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .data          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .bss           0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .text._ZN7Timer168start_usEjjjjh
+                0x00000000      0x144 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .text._ZN6Timer88start_msEjjjh
+                0x00000000       0xe6 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .text._ZN6Timer88start_usEjjjh
+                0x00000000       0xc6 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .text          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+ .data          0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+ .bss           0x00000000        0x0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x00000000       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00000000       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00040000         xr
+data             0x00800200         0x00002000         rw !x
+eeprom           0x00810000         0x00001000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+LOAD main.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+LOAD D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6\libatmega2560.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800200]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800200
+                [0x00040000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x00002000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xfe00
+                [0x00001000]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2324
+ *(.vectors)
+ .vectors       0x00000000       0xe4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000e4                . = ALIGN (0x2)
+                0x000000e4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000e4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000e4                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000e4                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000e4                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000e4        0x2 main.o
+ .ctors         0x000000e6        0x2 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x000000e8                __ctors_end = .
+                0x000000e8                __dtors_start = .
+ *(.dtors)
+                0x000000e8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000e8        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+                0x000000e8                __init
+ .init0         0x000000e8       0x18 main.o
+ .init0         0x00000100       0x18 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .init0         0x00000118       0x18 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .init0         0x00000130       0x18 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .init0         0x00000148       0x18 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .init0         0x00000160       0x18 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .init0         0x00000178       0x18 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .init0         0x00000190       0x18 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000001a8       0x10 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000001b8       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                0x000001b8                __do_copy_data
+ .init4         0x000001d2       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                0x000001d2                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000001e2       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+                0x000001e2                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000202        0x6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ *(.init9)
+ *(.text)
+ .text          0x00000208        0x2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+                0x00000208                __vector_38
+                0x00000208                __vector_28
+                0x00000208                __vector_1
+                0x00000208                __vector_24
+                0x00000208                __vector_12
+                0x00000208                __vector_55
+                0x00000208                __vector_46
+                0x00000208                __bad_interrupt
+                0x00000208                __vector_6
+                0x00000208                __vector_31
+                0x00000208                __vector_39
+                0x00000208                __vector_3
+                0x00000208                __vector_30
+                0x00000208                __vector_25
+                0x00000208                __vector_54
+                0x00000208                __vector_56
+                0x00000208                __vector_7
+                0x00000208                __vector_41
+                0x00000208                __vector_27
+                0x00000208                __vector_5
+                0x00000208                __vector_52
+                0x00000208                __vector_37
+                0x00000208                __vector_4
+                0x00000208                __vector_51
+                0x00000208                __vector_2
+                0x00000208                __vector_15
+                0x00000208                __vector_36
+                0x00000208                __vector_29
+                0x00000208                __vector_40
+                0x00000208                __vector_8
+                0x00000208                __vector_26
+                0x00000208                __vector_53
+                0x00000208                __vector_16
+                0x0000020a                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z9Blinker_1v
+                0x0000020a       0x5e main.o
+                0x0000020a                _Z9Blinker_1v
+ .text._Z9Blinker_2v
+                0x00000268       0x5e main.o
+                0x00000268                _Z9Blinker_2v
+ .text._Z8Viewer_1v
+                0x000002c6       0x52 main.o
+                0x000002c6                _Z8Viewer_1v
+ .text._Z8Viewer_2v
+                0x00000318       0x54 main.o
+                0x00000318                _Z8Viewer_2v
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x0000036c       0x90 main.o
+ .text.main     0x000003fc       0x80 main.o
+                0x000003fc                main
+ .text._Z17string_write_loopPcP12BoundedQueue
+                0x0000047c       0x4e main.o
+                0x0000047c                _Z17string_write_loopPcP12BoundedQueue
+ .text._Z11toggle_taskh
+                0x000004ca       0x54 main.o
+                0x000004ca                _Z11toggle_taskh
+ .text._Z6Task_1v
+                0x0000051e       0x2e main.o
+                0x0000051e                _Z6Task_1v
+ .text._Z6Task_2v
+                0x0000054c       0x2e main.o
+                0x0000054c                _Z6Task_2v
+ .text._Z6Task_3v
+                0x0000057a       0x2e main.o
+                0x0000057a                _Z6Task_3v
+ .text._Z6Task_4v
+                0x000005a8       0x2e main.o
+                0x000005a8                _Z6Task_4v
+ .text._Z14Task_read_keysv
+                0x000005d6       0xbe main.o
+                0x000005d6                _Z14Task_read_keysv
+ .text._GLOBAL__sub_I_counter1
+                0x00000694        0xc main.o
+ .text._ZN14BinarySemaphor11wait_aquireEv
+                0x000006a0       0x38 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+                0x000006a0                _ZN14BinarySemaphor11wait_aquireEv
+ .text._ZN14BinarySemaphor7releaseEv
+                0x000006d8       0x2e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+                0x000006d8                _ZN14BinarySemaphor7releaseEv
+ .text._ZN12BoundedQueue4readEv
+                0x00000706       0x30 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+                0x00000706                _ZN12BoundedQueue4readEv
+ .text._ZN12BoundedQueue5writeEh
+                0x00000736       0x54 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+                0x00000736                _ZN12BoundedQueue5writeEh
+ .text._ZN12DigiPortIRPT6notifyEv
+                0x0000078a       0x50 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                0x0000078a                _ZN12DigiPortIRPT6notifyEv
+ .text._ZN11DigiPortRawC2Ehhh
+                0x000007da       0x44 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                0x000007da                _ZN11DigiPortRawC1Ehhh
+                0x000007da                _ZN11DigiPortRawC2Ehhh
+ .text.__vector_9
+                0x0000081e       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                0x0000081e                __vector_9
+ .text.__vector_10
+                0x00000884       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                0x00000884                __vector_10
+ .text.__vector_11
+                0x000008ea       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                0x000008ea                __vector_11
+ .text._ZN12DigiPortIRPTC2EhhhPFvvE
+                0x00000950       0x96 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                0x00000950                _ZN12DigiPortIRPTC1EhhhPFvvE
+                0x00000950                _ZN12DigiPortIRPTC2EhhhPFvvE
+ .text._ZN3LCD10wait_readyEv
+                0x000009e6       0xd4 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                0x000009e6                _ZN3LCD10wait_readyEv
+ .text._ZN3LCD6enableEv
+                0x00000aba       0x44 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                0x00000aba                _ZN3LCD6enableEv
+ .text._ZN3LCD7commandEh
+                0x00000afe       0xb6 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                0x00000afe                _ZN3LCD7commandEh
+ .text._ZN3LCD7set_posEhh
+                0x00000bb4       0x58 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                0x00000bb4                _ZN3LCD7set_posEhh
+ .text._ZN3LCD14advance_cursorEv
+                0x00000c0c       0x3c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                0x00000c0c                _ZN3LCD14advance_cursorEv
+ .text._ZN3LCD4initEh
+                0x00000c48      0x134 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                0x00000c48                _ZN3LCD4initEh
+ .text._ZN3LCDC2Eh10LCD_Type_th
+                0x00000d7c       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                0x00000d7c                _ZN3LCDC2Eh10LCD_Type_th
+                0x00000d7c                _ZN3LCDC1Eh10LCD_Type_th
+ .text._ZN3LCD10write_charEc
+                0x00000de2       0x62 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                0x00000de2                _ZN3LCD10write_charEc
+ .text._ZL4idlev
+                0x00000e44       0x18 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .text._Z11task_insertPFvvE8Priority
+                0x00000e5c       0xd6 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x00000e5c                _Z11task_insertPFvvE8Priority
+ .text._Z8activateh
+                0x00000f32       0x48 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x00000f32                _Z8activateh
+ .text._Z9is_activeh
+                0x00000f7a       0x2a D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x00000f7a                _Z9is_activeh
+ .text._Z6kernel14SchedulingTypePFvhE
+                0x00000fa4       0x2c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x00000fa4                _Z6kernel14SchedulingTypePFvhE
+ .text._Z5yieldv
+                0x00000fd0       0x58 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x00000fd0                _Z5yieldv
+ .text._Z10deactivateh
+                0x00001028       0x50 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x00001028                _Z10deactivateh
+ .text._Z15current_task_idv
+                0x00001078        0x6 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x00001078                _Z15current_task_idv
+ .text._Z8sem_waith
+                0x0000107e       0x70 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x0000107e                _Z8sem_waith
+ .text._Z11sem_waitingv
+                0x000010ee       0x36 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x000010ee                _Z11sem_waitingv
+ .text.__vector_23
+                0x00001124      0x202 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                0x00001124                __vector_23
+ .text._GLOBAL__sub_I__Z11task_insertPFvvE8Priority
+                0x00001326        0xa D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .text._ZN6Timer88notify_AEv
+                0x00001330       0x2c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001330                _ZN6Timer88notify_AEv
+ .text._ZN6Timer88notify_BEv
+                0x0000135c       0x2c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0000135c                _ZN6Timer88notify_BEv
+ .text._ZN6Timer88notify_CEv
+                0x00001388        0x2 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001388                _ZN6Timer88notify_CEv
+ .text._ZN6Timer88notify_OEv
+                0x0000138a       0x24 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0000138a                _ZN6Timer88notify_OEv
+ .text._ZN7OSTimer5resetEv
+                0x000013ae       0x4c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000013ae                _ZN7OSTimer5resetEv
+ .text._ZN7Timer168notify_AEv
+                0x000013fa       0x2c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000013fa                _ZN7Timer168notify_AEv
+ .text._ZN7Timer168notify_BEv
+                0x00001426       0x2c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001426                _ZN7Timer168notify_BEv
+ .text._ZN7Timer168notify_CEv
+                0x00001452       0x2c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001452                _ZN7Timer168notify_CEv
+ .text._ZN7Timer168notify_OEv
+                0x0000147e       0x24 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0000147e                _ZN7Timer168notify_OEv
+ .text.__cxa_pure_virtual
+                0x000014a2        0x2 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000014a2                __cxa_pure_virtual
+ .text.__vector_21
+                0x000014a4       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000014a4                __vector_21
+ .text.__vector_22
+                0x0000150a       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0000150a                __vector_22
+ .text.__vector_13
+                0x00001570       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001570                __vector_13
+ .text.__vector_14
+                0x000015d6       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000015d6                __vector_14
+ .text.__vector_17
+                0x0000163c       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0000163c                __vector_17
+ .text.__vector_18
+                0x000016a2       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000016a2                __vector_18
+ .text.__vector_19
+                0x00001708       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001708                __vector_19
+ .text.__vector_20
+                0x0000176e       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0000176e                __vector_20
+ .text.__vector_32
+                0x000017d4       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000017d4                __vector_32
+ .text.__vector_33
+                0x0000183a       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0000183a                __vector_33
+ .text.__vector_34
+                0x000018a0       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000018a0                __vector_34
+ .text.__vector_35
+                0x00001906       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001906                __vector_35
+ .text.__vector_42
+                0x0000196c       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0000196c                __vector_42
+ .text.__vector_43
+                0x000019d2       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000019d2                __vector_43
+ .text.__vector_44
+                0x00001a38       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001a38                __vector_44
+ .text.__vector_45
+                0x00001a9e       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001a9e                __vector_45
+ .text.__vector_47
+                0x00001b04       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001b04                __vector_47
+ .text.__vector_48
+                0x00001b6a       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001b6a                __vector_48
+ .text.__vector_49
+                0x00001bd0       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001bd0                __vector_49
+ .text.__vector_50
+                0x00001c36       0x66 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001c36                __vector_50
+ .text._ZN7Timer16C2EhPFvvES1_S1_S1_
+                0x00001c9c      0x1ba D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001c9c                _ZN7Timer16C2EhPFvvES1_S1_S1_
+                0x00001c9c                _ZN7Timer16C1EhPFvvES1_S1_S1_
+ .text._ZN7Timer168start_msEjjjjh
+                0x00001e56      0x164 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001e56                _ZN7Timer168start_msEjjjjh
+ .text._ZN6Timer8C2EhPFvvES1_S1_
+                0x00001fba       0xec D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00001fba                _ZN6Timer8C1EhPFvvES1_S1_
+                0x00001fba                _ZN6Timer8C2EhPFvvES1_S1_
+ .text._ZN7OSTimerC2Eh
+                0x000020a6       0x48 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000020a6                _ZN7OSTimerC2Eh
+                0x000020a6                _ZN7OSTimerC1Eh
+ .text._ZN7OSTimer13force_timeoutEv
+                0x000020ee       0x58 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000020ee                _ZN7OSTimer13force_timeoutEv
+ .text._ZN7OSTimer5startEj
+                0x00002146       0x6e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00002146                _ZN7OSTimer5startEj
+ .text._ZN5Timer4stopEv
+                0x000021b4       0x18 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000021b4                _ZN5Timer4stopEv
+ .text._ZN7Timer165resetEv
+                0x000021cc       0x7c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x000021cc                _ZN7Timer165resetEv
+ .text._ZN6Timer85resetEv
+                0x00002248       0x36 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00002248                _ZN6Timer85resetEv
+ .text._Z22port_handle_to_addressh
+                0x0000227e       0x48 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+                0x0000227e                _Z22port_handle_to_addressh
+ .text._Z20tc_handle_to_addressh
+                0x000022c6       0x4a D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+                0x000022c6                _Z20tc_handle_to_addressh
+ .text.libgcc   0x00002310       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                0x00002310                __tablejump2__
+                0x00002320                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002320        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00002320                _exit
+                0x00002320                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002320        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002324                _etext = .
+
+.data           0x00800200       0xca load address 0x00002324
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.string_4
+                0x00800200        0x9 main.o
+                0x00800200                string_4
+ .data.string_3
+                0x00800209        0x9 main.o
+                0x00800209                string_3
+ .data.string_2
+                0x00800212        0x9 main.o
+                0x00800212                string_2
+ .data.string_1
+                0x0080021b        0x9 main.o
+                0x0080021b                string_1
+ .data._ZL16sem_waiting_list
+                0x00800224        0x8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .data._ZL14active_task_id
+                0x0080022c        0x1 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV12DigiPortIRPT
+                0x0080022d        0x6 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                0x0080022d                _ZTV12DigiPortIRPT
+ .rodata.lcdTypes
+                0x00800233       0x3c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                0x00800233                lcdTypes
+ .rodata._ZTV5Timer
+                0x0080026f        0xe D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0080026f                _ZTV5Timer
+ .rodata._ZTV6Timer8
+                0x0080027d        0xe D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0080027d                _ZTV6Timer8
+ .rodata._ZTV7OSTimer
+                0x0080028b        0xe D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x0080028b                _ZTV7OSTimer
+ .rodata._ZTV7Timer16
+                0x00800299        0xe D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00800299                _ZTV7Timer16
+ .rodata.tc_vect
+                0x008002a7        0xc D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+                0x008002a7                tc_vect
+ .rodata.port_vect
+                0x008002b3       0x16 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+                0x008002b3                port_vect
+ *(.gnu.linkonce.r*)
+                0x008002ca                . = ALIGN (0x2)
+ *fill*         0x008002c9        0x1 
+                0x008002ca                _edata = .
+                0x008002ca                PROVIDE (__data_end, .)
+
+.bss            0x008002ca     0x19f5
+                0x008002ca                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.queue2    0x008002ca        0xe main.o
+                0x008002ca                queue2
+ .bss.queue1    0x008002d8        0xe main.o
+                0x008002d8                queue1
+ .bss.semaphor2
+                0x008002e6        0x1 main.o
+                0x008002e6                semaphor2
+ .bss.semaphor1
+                0x008002e7        0x1 main.o
+                0x008002e7                semaphor1
+ .bss.tick_2    0x008002e8       0x12 main.o
+                0x008002e8                tick_2
+ .bss.tick_1    0x008002fa       0x12 main.o
+                0x008002fa                tick_1
+ .bss.leds      0x0080030c        0x4 main.o
+                0x0080030c                leds
+ .bss.keys      0x00800310        0xb main.o
+                0x00800310                keys
+ .bss.mein_display
+                0x0080031b        0xa main.o
+                0x0080031b                mein_display
+ .bss.q         0x00800325        0x1 main.o
+                0x00800325                q
+ .bss.p         0x00800326        0x1 main.o
+                0x00800326                p
+ .bss.n         0x00800327        0x1 main.o
+                0x00800327                n
+ .bss.m         0x00800328        0x1 main.o
+                0x00800328                m
+ .bss.task_toggle_request
+                0x00800329        0x4 main.o
+                0x00800329                task_toggle_request
+ .bss.task_id   0x0080032d        0x6 main.o
+                0x0080032d                task_id
+ .bss.counter2_limit
+                0x00800333        0x2 main.o
+                0x00800333                counter2_limit
+ .bss.counter1_limit
+                0x00800335        0x2 main.o
+                0x00800335                counter1_limit
+ .bss.counter2  0x00800337        0x2 main.o
+                0x00800337                counter2
+ .bss.counter1  0x00800339        0x2 main.o
+                0x00800339                counter1
+ .bss.dp_obj    0x0080033b        0x6 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                0x0080033b                dp_obj
+ .bss._ZL18sem_waiting_oldest
+                0x00800341        0x1 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .bss._ZL22sem_waiting_free_index
+                0x00800342        0x1 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .bss._ZL17sem_waiting_count
+                0x00800343        0x1 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .bss._ZL8exitproc
+                0x00800344        0x2 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .bss._ZL10sched_type
+                0x00800346        0x1 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .bss._ZL8OS_timer
+                0x00800347       0x11 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .bss._ZL7taskset
+                0x00800358     0x1958 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .bss.timer_obj
+                0x00801cb0        0xc D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                0x00801cb0                timer_obj
+ .bss._ZL8tc_usage
+                0x00801cbc        0x1 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+ .bss._ZL10port_usage
+                0x00801cbd        0x2 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+ *(COMMON)
+                0x00801cbf                PROVIDE (__bss_end, .)
+                0x00002324                __data_load_start = LOADADDR (.data)
+                0x000023ee                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00801cbf        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00801cbf                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .comment       0x00000030       0x31 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .comment       0x00000030       0x31 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .comment       0x00000030       0x31 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .comment       0x00000030       0x31 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .comment       0x00000030       0x31 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .comment       0x00000030       0x31 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x498
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x90 main.o
+ .debug_aranges
+                0x00000090       0x48 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .debug_aranges
+                0x000000d8       0x48 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .debug_aranges
+                0x00000120       0x60 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .debug_aranges
+                0x00000180       0xe0 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .debug_aranges
+                0x00000260       0x98 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .debug_aranges
+                0x000002f8      0x170 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .debug_aranges
+                0x00000468       0x30 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x7411
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xbbc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_info    0x00000bbc     0x164b main.o
+ .debug_info    0x00002207      0x4eb D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .debug_info    0x000026f2      0x53e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .debug_info    0x00002c30      0x94f D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .debug_info    0x0000357f     0x1c76 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .debug_info    0x000051f5      0xb92 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .debug_info    0x00005d87     0x14d3 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .debug_info    0x0000725a      0x1b7 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+
+.debug_abbrev   0x00000000     0x2630
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0xb1a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_abbrev  0x00000b1a      0x414 main.o
+ .debug_abbrev  0x00000f2e      0x1f2 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .debug_abbrev  0x00001120      0x249 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .debug_abbrev  0x00001369      0x3e3 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .debug_abbrev  0x0000174c      0x4d4 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .debug_abbrev  0x00001c20      0x4cf D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .debug_abbrev  0x000020ef      0x43d D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .debug_abbrev  0x0000252c      0x104 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+
+.debug_line     0x00000000     0x35f8
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x1fa C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_line    0x000001fa      0x5d6 main.o
+ .debug_line    0x000007d0      0x33e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .debug_line    0x00000b0e      0x394 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .debug_line    0x00000ea2      0x425 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .debug_line    0x000012c7      0xbbb D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .debug_line    0x00001e82      0x7b7 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .debug_line    0x00002639      0xe39 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .debug_line    0x00003472      0x186 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+
+.debug_frame    0x00000000     0x12b4
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x140 main.o
+ .debug_frame   0x00000140       0xc4 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .debug_frame   0x00000204       0x80 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .debug_frame   0x00000284      0x1c8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .debug_frame   0x0000044c      0x374 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .debug_frame   0x000007c0      0x114 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .debug_frame   0x000008d4      0x99c D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .debug_frame   0x00001270       0x44 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+
+.debug_str      0x00000000     0x1e21
+ *(.debug_str)
+ .debug_str     0x00000000      0x3e6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_str     0x000003e6      0xc05 main.o
+                                0xcdb (size before relaxing)
+ .debug_str     0x00000feb      0x1d9 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+                                0x39a (size before relaxing)
+ .debug_str     0x000011c4       0x16 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+                                0x385 (size before relaxing)
+ .debug_str     0x000011da      0x20b D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+                                0x61e (size before relaxing)
+ .debug_str     0x000013e5      0x232 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+                                0x886 (size before relaxing)
+ .debug_str     0x00001617      0x355 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+                                0x740 (size before relaxing)
+ .debug_str     0x0000196c      0x487 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+                                0x8fe (size before relaxing)
+ .debug_str     0x00001df3       0x2e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+                                0x288 (size before relaxing)
+
+.debug_loc      0x00000000     0x5179
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x2e7 main.o
+ .debug_loc     0x000002e7      0x3bc D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .debug_loc     0x000006a3      0x336 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .debug_loc     0x000009d9      0x7dd D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .debug_loc     0x000011b6     0x1a7a D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .debug_loc     0x00002c30      0x416 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .debug_loc     0x00003046     0x20c5 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .debug_loc     0x0000510b       0x6e D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x4f8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x80 main.o
+ .debug_ranges  0x00000080       0x68 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BinarySemaphor.o)
+ .debug_ranges  0x000000e8       0x70 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(BoundedQueue.o)
+ .debug_ranges  0x00000158       0x68 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(DigiPort.o)
+ .debug_ranges  0x000001c0      0x100 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(LCD.o)
+ .debug_ranges  0x000002c0       0xb8 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(OSKernel.o)
+ .debug_ranges  0x00000378      0x160 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Timer.o)
+ .debug_ranges  0x000004d8       0x20 D:\University\Semester 6\OOSE-LAB SS22\Runtime\libRuntime.a(Basics.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Aufgabe5.elf elf32-avr)
+LOAD linker stubs
